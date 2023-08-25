@@ -1,12 +1,11 @@
 Hi 👋 My name is Umutcan
 ========================
 
-Jr. Frontend Developer
+Full Stack Developer 
 ----------------------
 
 * 🌍  I'm based in İzmir
 * ✉️  You can contact me at [umutcanadgzl@gmail.com](mailto:umutcanadgzl@gmail.com)
-* 🧠  I'm learning HTML, CSS, JavaScript, ReactJS and Node JS
 
 ### Skills
 
